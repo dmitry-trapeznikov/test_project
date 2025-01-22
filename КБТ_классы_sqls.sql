@@ -29,3 +29,4 @@ NAME AS class_name
 FROM SOFI_NORDSTAR.C_OBJECTS
 WHERE dic_id = 104249
 ) class_type  ON  class_type.ID = class.CLASS_ID
+--тест sqls 01--
